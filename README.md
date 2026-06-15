@@ -111,7 +111,7 @@ MindCare-AI/
 
 ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/MindCare-AI.git
+git clone https://github.com/tavprasad/MindCare-AI.git
 cd MindCare-AI
 2️⃣ Install Dependencies
 pip install -r requirements.txt
